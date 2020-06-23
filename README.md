@@ -2,7 +2,8 @@
 My first C program for ARM architecture
 
 ## Operations
- - ### 1. Prints "Running"
+ - ### 1. Sends a curl request
       - #### INPUT
           - ##### STANDARD
-            - Null
+            - The syntax is : Path <Argument 1> <Argument 2> <Argument 3>
+            - For ex: ./test 1 2 3
